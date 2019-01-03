@@ -1,8 +1,8 @@
 ### Check if url exists or not
 
-###Installation
+### Installation
 * npm install
 * npm start
 
-Go to localhost:2002/url?url=<Enter your url>
+Go to localhost:2002/url?url=Enter your url
 
